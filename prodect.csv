@@ -1,0 +1,21 @@
+id,title,category,brand,price,discountPercentage,rating,stock,availabilityStatus,shippingInformation,returnPolicy,thumbnail
+1,Essence Mascara Lash Princess,beauty,Essence,9.99,10.48,2.56,99,In Stock,Ships in 3-5 business days,No return policy,https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp
+2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,19.99,18.19,2.86,34,In Stock,Ships in 2 weeks,7 days return policy,https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp
+3,Powder Canister,beauty,Velvet Touch,14.99,9.84,4.64,89,In Stock,Ships in 1-2 business days,No return policy,https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp
+4,Red Lipstick,beauty,Chic Cosmetics,12.99,12.16,4.36,91,In Stock,Ships in 1 week,7 days return policy,https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp
+5,Red Nail Polish,beauty,Nail Couture,8.99,11.44,4.32,79,In Stock,Ships overnight,No return policy,https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp
+6,Calvin Klein CK One,fragrances,Calvin Klein,49.99,1.89,4.37,29,In Stock,Ships overnight,90 days return policy,https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp
+7,Chanel Coco Noir Eau De,fragrances,Chanel,129.99,16.51,4.26,58,In Stock,Ships overnight,No return policy,https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp
+8,Dior J'adore,fragrances,Dior,89.99,14.72,3.8,98,In Stock,Ships in 2 weeks,7 days return policy,https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp
+9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,69.99,0.62,3.96,4,Low Stock,Ships in 1 month,7 days return policy,https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp
+10,Gucci Bloom Eau de,fragrances,Gucci,79.99,14.39,2.74,91,In Stock,Ships overnight,No return policy,https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp
+11,Annibale Colombo Bed,furniture,Annibale Colombo,1899.99,8.57,4.77,88,In Stock,Ships in 1 month,No return policy,https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp
+12,Annibale Colombo Sofa,furniture,Annibale Colombo,2499.99,14.4,3.92,60,In Stock,Ships in 1 week,7 days return policy,https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp
+13,Bedside Table African Cherry,furniture,Furniture Co.,299.99,19.09,2.87,64,In Stock,Ships overnight,7 days return policy,https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp
+14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,499.99,2.01,4.88,26,In Stock,Ships overnight,60 days return policy,https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp
+15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,799.99,8.8,3.59,7,Low Stock,Ships in 3-5 business days,60 days return policy,https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp
+16,Apple,groceries,,1.99,12.62,4.19,8,In Stock,Ships in 2 weeks,90 days return policy,https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp
+17,Beef Steak,groceries,,12.99,9.61,4.47,86,In Stock,Ships overnight,60 days return policy,https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp
+18,Cat Food,groceries,,8.99,9.58,3.13,46,In Stock,Ships overnight,No return policy,https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp
+19,Chicken Meat,groceries,,9.99,13.7,3.19,97,In Stock,Ships in 1 month,7 days return policy,https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp
+20,Cooking Oil,groceries,,4.99,9.33,4.8,10,In Stock,Ships in 1-2 business days,30 days return policy,https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp
