@@ -66,3 +66,13 @@ for index, row in filtered_df.iterrows():
 
         if st.button("Add to Cart", key=row["id"]):
             st.success(f"{row['title']} added to cart!")
+
+        if "cart" not in st.session_state:
+            st.session_state["cart"] = []
+
+        if st.button("Add to Cart", key=row["id"]):
+            st.session_state["cart"].append(row.to_dict())
+            st.success(f"{row['title']} added to cart!")
+
+        if st.button("Go to Cart 🛒"):
+            st.switch_page("pages/order.py")
